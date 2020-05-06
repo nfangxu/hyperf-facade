@@ -1,3 +1,5 @@
+# 请使用 [`fangx/hyperf-support`](https://github.com/nfangxu/hyperf-support) 替代
+
 # Hyperf 下 facade 支持
 
 >  与 laravel 中的使用方法大致相同, 直接使用静态方式调用, 免去 di 的过程
