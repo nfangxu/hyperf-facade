@@ -1,3 +1,5 @@
+# abandoned @ 2020-05-06
+
 # 请使用 [`fangx/hyperf-support`](https://github.com/nfangxu/hyperf-support) 替代
 
 # Hyperf 下 facade 支持
